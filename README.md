@@ -28,7 +28,9 @@ Start at a low listening volume when trying new EQ or dynamics settings.
 
 ## Updates
 
-Version 0.2.29 adds offline AutoEQ headphone corrections and optional in-app update checks. In **OP!Amp → Settings…**, choose daily or weekly checks, or leave automatic checks off and use **Check for Updates… → Check Once**. You choose whether to download and install an update.
+Version 0.2.30 separates AutoEQ into per-output-device correction: switch listening presets and adjust EQ or Tone without losing the correction. Existing AutoEQ presets and edited values are preserved. It also reduces unnecessary UI work during EQ edits. [What's new in 0.2.30](https://opamp.giveit2.me/updates/#v0.2.30)
+
+In-app update checks are available from 0.2.29 onward. In **OP!Amp → Settings…**, choose daily or weekly checks, or leave automatic checks off and use **Check for Updates… → Check Once**. You choose whether to download and install an update.
 
 Version 0.2.28 and earlier need a one-time DMG or Homebrew upgrade to get these features:
 
