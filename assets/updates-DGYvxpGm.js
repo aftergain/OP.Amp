@@ -13,7 +13,7 @@ import{u as p,r,j as e,d as g,g as m,c as f,f as b,R as k,L as v}from"./styles-q
 <p>보정값은 기존 EQ 위에 더하지 않고 새 설정으로 적용해요<br />톤은 초기화하고 컴프레서·리미터는 끈 상태에서 시작해요<br />Auto Headroom은 켜둔 채로 시작해요</p>
 </blockquote>
 <h3>원할 때만 업데이트 확인</h3>
-<p>**OP!Amp → Settings…**에서 자동 확인을 켜면, 앱을 쓰는 동안 하루 또는 일주일 간격으로 새 버전이 있는지 확인해요<br />기본은 꺼져 있고, <strong>Check for Updates… → Check Once</strong>로 이번 한 번만 확인할 수도 있어요<br />확인할 때 GitHub Pages에 접속하며 IP 주소, 앱 버전, 업데이트 도구인 Sparkle의 버전이 전달돼요<br />오디오나 프리셋, 사용 통계는 보내지 않아요</p>
+<p><strong>OP!Amp → Settings…에서</strong> 자동 확인을 켜면, 앱을 쓰는 동안 하루 또는 일주일 간격으로 새 버전이 있는지 확인해요<br />기본은 꺼져 있고, <strong>Check for Updates… → Check Once</strong>로 이번 한 번만 확인할 수도 있어요<br />확인할 때 GitHub Pages에 접속하며 IP 주소, 앱 버전, 업데이트 도구인 Sparkle의 버전이 전달돼요<br />오디오나 프리셋, 사용 통계는 보내지 않아요</p>
 <p>새 버전이 있어도 다운로드와 설치는 직접 선택해야 진행돼요<br />설치할 때는 앱이 재시작되며 오디오 처리가 잠시 멈춰요<br />이미 설치한 Virtual Output도 필요하면 이어서 갱신해요<br />macOS에서 관리자 승인을 요청할 수 있고, 취소했다면 <strong>Finish Update</strong>로 다시 진행할 수 있어요</p>
 <p>0.2.28과 그 이전 버전에는 업데이트 확인 기능이 없어요<br />이번 0.2.29는 DMG나 Homebrew로 한 번 설치해 주세요</p>
 `},en:{title:"Find the EQ for your headphones",html:`<p>Search for your headphones and choose an EQ based on measured results.
